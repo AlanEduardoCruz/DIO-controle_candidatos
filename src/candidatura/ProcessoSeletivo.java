@@ -105,7 +105,7 @@ public class ProcessoSeletivo {
 			System.out.println("LIGAR PARA O CANDIDATO");
 
 		} else if (salarioBase == salarioPretendido) {
-			System.out.println("LIGAR PARA O CANDIDATO COM CONTRA PTOPOSTA");
+			System.out.println("LIGAR PARA O CANDIDATO COM CONTRA PROPOSTA");
 		} else {
 			System.out.println("AGUARDANDO O RESULTADO DOS DEMAIS CANDIDATOS");
 
